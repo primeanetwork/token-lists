@@ -1,0 +1,57 @@
+{
+  "name": "Primea Default",
+  "timestamp": "2025-10-20T00:00:00Z",
+  "version": { "major": 0, "minor": 1, "patch": 0 },
+  "keywords": ["primea", "goldpn", "usdp", "prim"],
+  "tokens": [
+    {
+      "chainId": 1698369,
+      "address": "0xREPLACE_WRAPPED_GOLDPN",
+      "name": "Wrapped GOLDPN",
+      "symbol": "WGOLDPN",
+      "decimals": 18,
+      "logoURI": "https://primea.network/assets/wgoldpn.png"
+    },
+    {
+      "chainId": 1698369,
+      "address": "0xREPLACE_USDP",
+      "name": "Primea USD",
+      "symbol": "USDP",
+      "decimals": 18,
+      "logoURI": "https://primea.network/assets/usdp.png"
+    },
+    {
+      "chainId": 1698369,
+      "address": "0xREPLACE_PRIM",
+      "name": "PRIM",
+      "symbol": "PRIM",
+      "decimals": 18,
+      "logoURI": "https://primea.network/assets/prim.png"
+    },
+
+    {
+      "chainId": 698369,
+      "address": "0xREPLACE_WRAPPED_GOLDPN",
+      "name": "Wrapped GOLDPN",
+      "symbol": "WGOLDPN",
+      "decimals": 18,
+      "logoURI": "https://primea.network/assets/wgoldpn.png"
+    },
+    {
+      "chainId": 698369,
+      "address": "0xREPLACE_USDP",
+      "name": "Primea USD",
+      "symbol": "USDP",
+      "decimals": 18,
+      "logoURI": "https://primea.network/assets/usdp.png"
+    },
+    {
+      "chainId": 698369,
+      "address": "0xREPLACE_PRIM",
+      "name": "PRIM",
+      "symbol": "PRIM",
+      "decimals": 18,
+      "logoURI": "https://primea.network/assets/prim.png"
+    }
+  ]
+}
